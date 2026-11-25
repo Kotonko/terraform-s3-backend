@@ -1,0 +1,7 @@
+aws_region          = "us-east-1"
+environment         = "prod"
+state_bucket_name   = "kotonko-tf-state-576134964248"
+vpc_cidr            = "10.1.0.0/16"
+public_subnet_cidr  = "10.1.1.0/24"
+private_subnet_cidr = "10.1.2.0/24"
+availability_zone   = "us-east-1b"
